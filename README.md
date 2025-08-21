@@ -69,5 +69,9 @@ into it and then finally shows the contents of that file
 <img width="1917" height="652" alt="Screenshot from 2025-08-21 10-30-20" src="https://github.com/user-attachments/assets/f8e94c9f-6a55-419e-a7a6-2cdb5045148d" />
 
 
+** ls -l | grep "^d"**
+>it lists only the directories because ls -l dislpays all in detail but grep shows only starting with d which are directories
 
+
+<img width="1917" height="597" alt="Screenshot from 2025-08-21 10-39-25" src="https://github.com/user-attachments/assets/4ba190b0-8f65-4143-8d7b-67703b1b1968" />
 
