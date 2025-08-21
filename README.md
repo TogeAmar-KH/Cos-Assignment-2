@@ -78,4 +78,11 @@ into it and then finally shows the contents of that file
 
 
 ** grep -r "pattern" /path/to/directory/**
-it searches for word pattern in all the files and subdirectories of given path recursively
+>it searches for word pattern in all the files and subdirectories of given path recursively
+
+
+
+
+**cat file1.txt file2.txt | sort | uniq –d**
+>it finds and shows only the duplicate lines that appear in both files
+>just like the recent command but difference is just -d which makes it display only duplicates
