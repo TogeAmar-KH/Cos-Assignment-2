@@ -38,4 +38,13 @@
 >it moves file.txt to desired path
 
 
+** chmod 755 script.sh**
+>it gives the user permision as 7=111 meaning read write and execute and group and others as 5=101 which have only permissions of read and execute
+
+
+
+** grep "pattern" file.txt**
+>searches for lines containing "pattern" in file.txt and displays those matching lines
+
+
 
