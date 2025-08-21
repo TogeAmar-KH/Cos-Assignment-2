@@ -75,3 +75,7 @@ into it and then finally shows the contents of that file
 
 <img width="1917" height="597" alt="Screenshot from 2025-08-21 10-39-25" src="https://github.com/user-attachments/assets/4ba190b0-8f65-4143-8d7b-67703b1b1968" />
 
+
+
+** grep -r "pattern" /path/to/directory/**
+it searches for word pattern in all the files and subdirectories of given path recursively
