@@ -86,3 +86,17 @@ into it and then finally shows the contents of that file
 **cat file1.txt file2.txt | sort | uniq –d**
 >it finds and shows only the duplicate lines that appear in both files
 >just like the recent command but difference is just -d which makes it display only duplicates
+
+
+
+** chmod 644 file.txt**
+>it give user permission to read and write and only read to group and others as 6=110,4=100
+
+
+
+** cp -r source_directory destination_directory**
+>it copies a directory and all the content of that directory to specified directory. i tried it doing it without the -r but i got something else.
+
+<img width="1920" height="1080" alt="Screenshot from 2025-08-21 21-23-24" src="https://github.com/user-attachments/assets/d5c2f522-cb8d-4f76-9210-f0f4a48aec5e" />
+
+
