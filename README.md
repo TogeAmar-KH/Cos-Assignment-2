@@ -48,3 +48,26 @@
 
 
 
+** kill PID** 
+>The command kill PID terminates a running process by sending it a signal to stop.
+
+
+** mkdir mydir && cd mydir && touch file.txt && echo "Hello, World!" > file.txt && cat file.txt**
+>it creates a mydir directory and selects that directory then creates a file.txt then write 
+into it and then finally shows the contents of that file
+
+<img width="1920" height="1080" alt="Screenshot from 2025-08-21 10-20-00" src="https://github.com/user-attachments/assets/b938f742-734a-499d-9818-cfbef1670c1a" />
+
+
+** ls -l | grep ".txt"**
+>it displays all the text files with all the details of permissions also
+
+
+** cat file1.txt file2.txt | sort | uniq**
+>it displays contents by combining them and sorting then and then it shows only the unique lines from both
+
+<img width="1917" height="652" alt="Screenshot from 2025-08-21 10-30-20" src="https://github.com/user-attachments/assets/f8e94c9f-6a55-419e-a7a6-2cdb5045148d" />
+
+
+
+
