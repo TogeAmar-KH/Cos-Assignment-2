@@ -288,3 +288,9 @@ Round Robin scheduling is 2 units:
 >**average turnaround time is 6.5 as turnaround times are 10,11,4,11 resp**
 >
 
+**5. Consider a program that uses the fork() system call to create a child process. Initially, the parent
+process has a variable x with a value of 5. After forking, both the parent and child processes
+increment the value of x by 1.
+ What will be the final values of x in the parent and child processes after the fork() call?**
+ 
+ >**both will be six as child is copy of parent and by incrementing them both**
