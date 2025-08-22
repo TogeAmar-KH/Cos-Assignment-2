@@ -100,3 +100,77 @@ into it and then finally shows the contents of that file
 <img width="1920" height="1080" alt="Screenshot from 2025-08-21 21-23-24" src="https://github.com/user-attachments/assets/d5c2f522-cb8d-4f76-9210-f0f4a48aec5e" />
 
 
+
+** find /path/to/search -name "*.txt"**
+>it searches for files which have .txt extension in the specified path or directory
+
+
+** chmod u+x file.txt**
+>it gives user the permission to execute file\.txt as u denotes user and + show that permission is given and x is permission to execute
+
+
+** echo $PATH**
+>this command shows the contents of path environment variable which shows all the directories that systems looks for
+>executable commands.like if use ls command its most likely in the very first directory and if you search for python it will be in some other
+>directory
+
+
+
+## Part B
+### Identify True or False:
+
+
+**1. ls is used to list files and directories in a directory.**
+>**its true**
+
+**2. mv is used to move files and directories.**
+>**true**
+
+**3. cd is used to copy files and directories.**
+>**false. its used to change directory**
+
+
+**4. pwd stands for "print working directory" and displays the current directory.**
+>**True**
+
+
+**5. grep is used to search for patterns in files.**
+>**true**
+
+
+**6. chmod 755 file.txt gives read, write, and execute permissions to the owner, and read and execute
+permissions to group and others.**
+>**True**
+
+
+7. mkdir -p directory1/directory2 creates nested directories, creating directory2 inside directory1
+if directory1 does not exist.
+>**True**
+
+
+9. rm -rf file.txt deletes a file forcefully without confirmation.
+>**true**
+
+### Identify the Incorrect Commands: 
+
+**1. chmodx is used to change file permissions.**
+>**incorrect**
+
+**2. cpy is used to copy files and directories.**
+>**incorrect**
+
+**3. mkfile is used to create a new file.**
+>**incorrect**
+
+**4. catx is used to concatenate files.**
+>**incorrect**
+
+**5. rn is used to rename files.**
+>**incorrect**
+
+
+## Part c
+
+**Question 1**: Write a shell script that prints "Hello, World!" to the terminal
+
+<img width="1026" height="749" alt="Screenshot from 2025-08-22 06-58-10" src="https://github.com/user-attachments/assets/4fdc9fdd-341d-4992-bbb5-7ec1010a7ed9" />
