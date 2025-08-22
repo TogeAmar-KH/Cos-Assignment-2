@@ -174,3 +174,21 @@ if directory1 does not exist.
 **Question 1**: Write a shell script that prints "Hello, World!" to the terminal
 
 <img width="1026" height="749" alt="Screenshot from 2025-08-22 06-58-10" src="https://github.com/user-attachments/assets/4fdc9fdd-341d-4992-bbb5-7ec1010a7ed9" />
+
+
+**Question 2: Declare a variable named "name" and assign the value "CDAC Mumbai" to it. Print the
+value of the variable.
+Question 3: Write a shell script that takes a number as input from the user and prints it.
+Question 4: Write a shell script that performs addition of two numbers (e.g., 5 and 3) and prints the
+result.**
+
+
+<img width="1477" height="708" alt="image" src="https://github.com/user-attachments/assets/86ca96c7-3189-4bef-81db-207ede6d6bcd" />
+
+
+**Question 5: Write a shell script that takes a number as input and prints "Even" if it is even, otherwise
+prints "Odd".**
+
+
+
+
